@@ -2,6 +2,5 @@
 layout:slide
 title: "Welcome to our second slide!"
 --
-your test 
-use the left arrow to go back!
+This is to edit the value
 
